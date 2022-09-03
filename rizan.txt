@@ -1,0 +1,4 @@
+Ip :rizangurung.aternos.me
+prot :57983
+name:team smp
+
